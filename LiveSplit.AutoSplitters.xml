@@ -17115,3 +17115,14 @@
         <Website>https://github.com/jonetiz/ETB-Autosplitter/blob/main/README.md</Website>
     </AutoSplitter>
 </AutoSplitters>
+         <Games>
+            <Game>The Multi-Medium</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/ZarzaSR/MultiSplitium/releases/download/1.069/MultiSplitium.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto starting, resetting, splitting and load removing are available (by Zarza).</Description>
+        <Website>https://discord.gg/Tzgjjqn4/Website>
+    </AutoSplitter>
+</AutoSplitters>
